@@ -1,0 +1,7 @@
+<!-- res/drawable/custom_image.xml -->
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/img_1"
+    android:tint="#C82727"
+    android:gravity="center"
+    android:width="10dp"
+    android:height="10dp" />
